@@ -22,10 +22,10 @@
       <!-- <div class="company">{{ question.company }}</div> -->
 
     </div><!--//meta-->
-
+    
     {% if question.contents %}
     <div class="details">
-      {{ question.contents}}
+      {{ question.contents | markdownify }}
     </div><!--//details-->
     {% endif %}
 
