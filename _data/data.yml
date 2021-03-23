@@ -107,15 +107,15 @@ experiences:
           - PostGreSQL, Oracle, Spring, GitHub, openlayers
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "
-        A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+        "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -135,10 +135,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
         link: "#"
