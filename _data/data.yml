@@ -121,16 +121,17 @@ projects:
       - title: 전북은행 통합콜센터 구축
         # link: "#"
         tagline: |
-        서버 및 화면 개발자로서 시스템간 인터페이스 및 시스템관리 메뉴를 개발하였습니다.
+          서버 및 화면 개발자로서 시스템간 인터페이스 및 시스템관리 메뉴를 개발하였습니다.
 
       - title: 온나라 부동산 포털 고도화(씨리얼)
         link: "https://seereal.lh.or.kr/main.do"
         tagline: |
-        화면 및 서버 개발자로서 인구,주택정보 이동특성조회 지도 및 공공데이터 포털 API로 자동갱신가능한 부동산통계를 개발하였습니다.
+          화면 및 서버 개발자로서 인구,주택정보 이동특성조회 지도 및 공공데이터 포털 API로 자동갱신가능한 부동산통계를 개발하였습니다.
 
       - title: Atom
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: |
+          "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 # publications:
 #     title: Publications
