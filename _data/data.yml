@@ -116,7 +116,7 @@ projects:
         # link: "#hook"
         # tagline: |
         details: |
-        "음성기반 보이는 ARS 프로젝트"
+          음성기반 보이는 ARS 프로젝트
 
       - title: DevStudio
         link: "#"
