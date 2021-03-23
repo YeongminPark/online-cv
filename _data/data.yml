@@ -49,13 +49,13 @@ career-profile:
     title: INTRODUCE
     summary: |
       웹서비스, 단위시스템 개발을 통해 다양한 분야의 개발경험이 있습니다.
-
+      
       코딩위주의 클라이언트 및 서버개발은 물론, MDD, UI/UX platform, 시나리오(텔레뱅킹) 개발능력이 있으며
       다양한 개발경험은 모든업무를 진행할때, 창의적 사고와 예외상황 예측에 도움이 됩니다.
       
       수학과 통계학을 좋아하고 요구사항을 수학적으로 해결하기 위해 노력합니다.
 
-      타인을 도와줄때 가장 많은 보람을 느끼고, 많은 도움주기위해 성장해왔습니다.
+      타인을 도와줄때 가장 큰 보람을 느끼고, 많은 보람을 느끼기위해 성장해왔습니다.
 # education:
 #     - degree: MSc in Computer Science
 #       university: University of London
@@ -98,7 +98,7 @@ experiences:
       company: 망고시스템, 안양
       details: |
         오픈소스를 활용한 GIS R&D 및 SI 프로젝트를 참여하였습니다. 
-        
+
         PostGreSQL의 PostGis와 Q-gis를 사용한 공간데이터 분석과 React를 사용한 공간 데이터 시각화를 담당하였으며
         자유분방한 환경속에서 삼성오픈소스컨퍼런스 및 osgeo 활동등을 참여하였습니다.
 
