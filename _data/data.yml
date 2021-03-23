@@ -112,48 +112,55 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: 전북은행 보이는ARS 프로젝트
+      - title: 전북은행 보이는ARS 구축
         time: 2020.07 - 2021.12
-        # link: "#hook"
         tagline: |
           현업 지원자로서 프로젝트지원 및 보이는 ARS의 FAX, WEB, APP, RPA연계와 신규서비스관련 계정계 개발을 하였습니다.
 
       - title: 전북은행 통합콜센터 구축
-        # link: "#"
+        time: 2018.10 - 2019.02
         tagline: |
           서버 및 화면 개발자로서 시스템간 인터페이스 및 시스템관리 메뉴를 개발하였습니다.
 
-      - title: 온나라 부동산 포털 고도화(씨리얼)
+      - title: LH 부동산 포털 사이트 고도화(씨리얼)
         link: "https://seereal.lh.or.kr/main.do"
+        time: 2018.01 - 2018.08
         tagline: |
           화면 및 서버 개발자로서 인구,주택정보 이동특성조회 지도 및 공공데이터 포털 API로 자동갱신가능한 부동산통계를 개발하였습니다.
 
-      - title: Atom
-        link: "#"
+      - title: 공간정보 융합활용 지원시스템 개발
+        link: "https://github.com/mangosystem/ngiiedu-client"
+        time: 2017.07 - 2018.01
         tagline: |
-          "A comprehensive website template solution for startups/developers to market their mobile apps."
+          클라이언트 개발환경(github, react)구축 및 공간데이터 분석 서비스 화면 개발
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# 서류에서 필수로 확인하고 있어요
+# (아래 3가지 사항은 서류전형 평가의 중요한 자료로 활용됩니다.)
+# 업무에서 반복적으로 발생하는 문제를 해결하기 위해 자동화했거나, 기존과 다른 방식으로 문제를 해결한 사례를 하나만 작성해 주세요.
+# 최근 개발한 코드 중 기억에 남는 사례를 하나만 작성해 주세요. (난이도, 복잡도 높은 프로그램 위주로 소개)
+# 최근 새로운 기술에 대해 깊이 있게 학습한 경험을 작성해 주세요.
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+questions:
+    - title: 업무에서 반복적으로 발생하는 문제를 해결하기 위해 자동화했거나, 기존과 다른 방식으로 문제를 해결한 사례
+      contents: |
+        내
+
+        용
+    - title: 최근 개발한 코드 중 기억에 남는 사례
+      contents: |
+        내
+
+        용
+    - title: 최근 새로운 기술에 대해 깊이 있게 학습한 경험을 작성해 주세요.
+      contents: |
+        내
+
+        용
+        
+
+
+
 
 skills:
     title: Skills &amp; Proficiency
