@@ -2,6 +2,8 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+<br/>
+## Resume page
 <a href="https://yeongminpark.github.io/resume/">
 https://yeongminpark.github.io/resume/
 </a>
