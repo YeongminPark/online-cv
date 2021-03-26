@@ -21,19 +21,6 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-
-    # languages:
-    #   - idiom: English
-    #     level: Native
-
-    #   - idiom: French
-    #     level: Professional
-
-    #   - idiom: Spanish
-    #     level: Professional
 
     interests:
       - item: gaming
@@ -41,9 +28,6 @@ sidebar:
 
       - item: walking
         link:
-
-      # - item: Cooking
-      #   link:
 
 career-profile:
     title: INTRODUCE
@@ -56,29 +40,7 @@ career-profile:
       수학과 통계학을 좋아하고 요구사항을 수학적으로 해결하기 위해 노력합니다.
 
       타인을 도와줄때 가장 큰 보람을 느끼고, 많은 보람을 느끼기위해 성장해왔습니다.
-# education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - degree: BSc in Applied Mathematics
-#       university: Bristol University
-#       time: 2007 - 2011
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+
 experiences:
     - role: 통합콜센터 운영 및 개발
       time: 2018.10 - Present
@@ -107,10 +69,7 @@ experiences:
           - PostGreSQL, Oracle, Spring, GitHub, openlayers
 projects:
     title: Projects
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   
     assignments:
       - title: 전북은행 보이는ARS 구축
         time: 2020.07 - 2021.12
@@ -156,38 +115,29 @@ questions:
 
     - title: 최근 개발한 코드 중 기억에 남는 사례
       contents: |
-        자리수체크
+        (1)
+
+        25일부로 시행된 금소법으로인해 콜센터 상담원의 적합성심사 요청 및 결과 송신과정이 필요하게되었습니다.
+
+        상담원들이 상담 어플리케이션에서 적합성 심사를 하기위한 SMS(BDT)를 계정계 서비스를 호출해 전송하는 기능과
+
+        고객 적합성 평가 완료시 적제된 계정계 DB를 디퍼드를 통해 담어플리케이션 서버(단위시스템)의 EAI수신 모듈에서 받고 상담사에게 내용을 전달하게하며 적합성 심사요청전 최초 정보를 이어서 진행할수 있도록 개발하였습니다.
+        
+        (2)
+
+        시간이 지날수록 업무팀의 요구사항은 Ctrl+C, V로 해결할 수 있는 부분이 많아지고, 업무량도 증가하여 문재를 해결하기보단 답을 찍어내는 일을 하고있습니다.
+        
+        어느 고마우신 분이 보이는ARS WEB화면의 버그를 찾아주셔서 오랜만에 문재다운 코딩을 하여 기억에 남습니다.
+
+        휴대폰번호 입력창의 "-" 자동입력 때문에 중간부분수정시 커서위치가 일정하지 않게되는 버그였는데,
+
+        입력전 텍스트 숫자(정규식사용)와 입력후 텍스트 전체("-"포함)를 비교하여 정확한 커서위치를 찾게 하였고
+
+        휴대전화를 개선하려 만든 함수이지만 모든 포멧에서 사용할수있어서 공통함수로 사용하게 되었습니다.
+
         
     - title: 최근 새로운 기술에 대해 깊이 있게 학습한 경험을 작성해 주세요.
       contents: |
         현재 운영중인 TA, STT를 활용하고 앞으로 상담품질관리 자동화, 콜봇, 상담어시스턴트같은 AI프로젝트를 진행하기위하여 AI에대해 학습하였습니다.
         콜센터의 모든업무는 "대화"로 이루어져있기때문에,어휘뿐아니라 문장과 문맥의 의미를 이해하는 자연어처리(NLU, NLP)가 가장 중요하다고 생각하고있습니다.
         
-
-
-
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
